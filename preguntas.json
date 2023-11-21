@@ -1,0 +1,86 @@
+[
+    {
+        "question": "Quien es mas gorda?",
+        "answers": [
+            {
+                "text": "diego",
+                "correct": true
+            },
+            {
+                "text": "reis",
+                "correct": false
+            },
+            {
+                "text": "jose",
+                "correct": false
+            },
+            {
+                "text": "sachun",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quien come mas?",
+        "answers": [
+            {
+                "text": "victor",
+                "correct": false
+            },
+            {
+                "text": "mando",
+                "correct": false
+            },
+            {
+                "text": "wilson",
+                "correct": true
+            },
+            {
+                "text": "richard",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Quien corre mas?",
+        "answers": [
+            {
+                "text": "richard",
+                "correct": false
+            },
+            {
+                "text": "reis",
+                "correct": false
+            },
+            {
+                "text": "blancos",
+                "correct": false
+            },
+            {
+                "text": "blancos mayor negros",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Quien duerme mas?",
+        "answers": [
+            {
+                "text": "trapo",
+                "correct": false
+            },
+            {
+                "text": "pc",
+                "correct": true
+            },
+            {
+                "text": "jose",
+                "correct": false
+            },
+            {
+                "text": "sachun",
+                "correct": false
+            }
+        ]
+    }
+]
